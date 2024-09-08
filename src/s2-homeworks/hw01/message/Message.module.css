@@ -1,0 +1,45 @@
+.message {
+width: 575px;
+    height: 77px;
+    display: flex;
+    border: 1px solid red;
+    padding: 10px;
+    justify-content: flex-start;
+}
+
+.imageAndText {
+    display: flex;
+    align-items: center;
+
+}
+
+.imageAndText img {
+width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: black;
+
+}
+
+.text:after {
+
+}
+
+.name {
+    font-weight: bold;
+}
+
+.messageText {
+    margin-top: 5px;
+}
+
+.time {
+
+}
