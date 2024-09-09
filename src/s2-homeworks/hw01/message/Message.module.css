@@ -1,14 +1,13 @@
 .message {
 width: 575px;
-    height: 77px;
-    display: flex;
-    border: 1px solid red;
-    padding: 10px;
-    justify-content: flex-start;
+    height: 80px;
+    margin: 20px 50px 50px auto;
+
 }
 
 .imageAndText {
     display: flex;
+    flex-direction: row-reverse;
     align-items: center;
 
 }
@@ -17,29 +16,46 @@ width: 575px;
 width: 48px;
     height: 48px;
     border-radius: 50%;
-    margin-right: 20px;
+    margin-left: 20px;
 }
 
 .text {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    color: black;
+    align-items: flex-end;
+    width: 100%;
+    padding: 10px;
+    background-color:#0066CC;
+    color: white;
+    border-radius: 20px;
+    font-size: 16px;
+
 
 }
 
 .text:after {
-
+    content: '';
+    position: absolute;
+    top: 31%;
+    border-width: 15px;
+    border-style: solid;
+    border-color: transparent transparent #0066CC  transparent;
+    transform: translateX(20px);
 }
 
 .name {
     font-weight: bold;
+    font-size: 18px;
 }
 
 .messageText {
     margin-top: 5px;
+
+
 }
 
 .time {
-
+display: flex;
+    flex-direction: row-reverse;
 }
