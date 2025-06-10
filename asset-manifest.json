@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sprint2Task1version2/static/css/main.7f03a273.css",
-    "main.js": "/sprint2Task1version2/static/js/main.5a3cc22c.js",
-    "static/js/787.58b2b035.chunk.js": "/sprint2Task1version2/static/js/787.58b2b035.chunk.js",
-    "static/media/avatar.png": "/sprint2Task1version2/static/media/avatar.d947cb9d0d13765666b6.png",
-    "index.html": "/sprint2Task1version2/index.html",
-    "main.7f03a273.css.map": "/sprint2Task1version2/static/css/main.7f03a273.css.map",
-    "main.5a3cc22c.js.map": "/sprint2Task1version2/static/js/main.5a3cc22c.js.map",
-    "787.58b2b035.chunk.js.map": "/sprint2Task1version2/static/js/787.58b2b035.chunk.js.map"
+    "main.css": "/sprint2Task3/static/css/main.07a16332.css",
+    "main.js": "/sprint2Task3/static/js/main.2c0b7fa0.js",
+    "static/js/787.58b2b035.chunk.js": "/sprint2Task3/static/js/787.58b2b035.chunk.js",
+    "static/media/avatar.png": "/sprint2Task3/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/sprint2Task3/index.html",
+    "main.07a16332.css.map": "/sprint2Task3/static/css/main.07a16332.css.map",
+    "main.2c0b7fa0.js.map": "/sprint2Task3/static/js/main.2c0b7fa0.js.map",
+    "787.58b2b035.chunk.js.map": "/sprint2Task3/static/js/787.58b2b035.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f03a273.css",
-    "static/js/main.5a3cc22c.js"
+    "static/css/main.07a16332.css",
+    "static/js/main.2c0b7fa0.js"
   ]
 }
